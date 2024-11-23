@@ -1,0 +1,4 @@
+numExpansions: 10
+c: 0.25
+alpha: 0.001
+epochs: 200000
